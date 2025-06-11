@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Checking for github PAT connection and modifying from development branch
+=======
+updated again from the master branch
+
+This line editing to test the ssh key from the master branch
+
+This is editing from master branch...
+>>>>>>> 94a242785163ea312717dd8673f22a20cb16adcb
 
 I am additing this code from master branch..
 I am updated this code from development...
